@@ -18,7 +18,7 @@ const projects = [
   {
     title: "Portfolio website",
     image: "./assets/img/portfolio.png",
-    github: "https://github.com/AlaminIsCoding/lumina",
+    github: "https://github.com/AlaminIsCoding/AlaminIsCoding.github.io",
     tags: ["HTML"],
   },
 ];
